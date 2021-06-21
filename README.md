@@ -1,1 +1,1 @@
-# Calculator-with-Html-Css-and-jquey
+# Calculator-with-Html-Css-and-jquery
